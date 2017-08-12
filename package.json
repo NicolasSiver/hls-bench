@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/NicolasSiver/hls-bench/issues"
   },
-  "homepage": "https://github.com/NicolasSiver/hls-bench#readme"
+  "homepage": "https://github.com/NicolasSiver/hls-bench#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  }
 }
