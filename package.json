@@ -1,0 +1,26 @@
+{
+  "name": "hls-bench",
+  "version": "1.0.0",
+  "description": "A playground for HLS playback.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasSiver/hls-bench.git"
+  },
+  "keywords": [
+    "hls",
+    "hls.js",
+    "performance",
+    "benchmark",
+    "playback"
+  ],
+  "author": "Nicolas Siver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolasSiver/hls-bench/issues"
+  },
+  "homepage": "https://github.com/NicolasSiver/hls-bench#readme"
+}
